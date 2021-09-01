@@ -8,10 +8,10 @@ Atmega32
 
 # Mainly used Components
 
-Ulatrasonic Sensor
-Pneumatic Cylinders
-Servo Motors
-Voice Module
-LCD Display
-Thermo-Stat Switch
+* Ulatrasonic Sensor
+* Pneumatic Cylinders
+* Servo Motors
+* Voice Module
+* LCD Display
+* Thermo-Stat Switch
 
